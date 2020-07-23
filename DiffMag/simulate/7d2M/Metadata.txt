@@ -1,0 +1,6 @@
+Contrast 
+Pixel size 21.9pm
+scan fly back error: 0.1
+scan random drift: 0.04
+Dwell time: 6us
+Resolution: 78.2pm
